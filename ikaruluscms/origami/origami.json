@@ -49,5 +49,40 @@
         "value": "Créditos:\n\nProducido por: Origami Studio\n\nNarración: Patricia Pereyra\n\nGuion adaptación: Rodolfo Esquivel\n\nPreproducción: Ikaro\n\nAnimación: Jimy Carhuas /Rodolfo Esquivel /Eduardo Muñoz\n\nPostproducción: Ikaro /Helzerel\n\nDiseño de sonido y mezcla de audio: Oscar Akamine\n\nGrabación de Sonido: Supay Estudio\n\nMúsica: Celso Garrido Lecca"
       }
     ]
+  },
+  {
+    "id": "el-otorongo",
+    "title": "El Otorongo",
+    "imageTN": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740436112/ikarulusv2/qcns5tu0l2rt8cdiqqbs.jpg",
+    "content": [
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=uuUb2uNBJAs"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740436308/ikarulusv2/vkw1tk5ckpwrl6dye5je.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740436323/ikarulusv2/kd7hn9gu4s09jecffndb.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740436332/ikarulusv2/exqimrzqitv8w0moeb9s.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740436338/ikarulusv2/wbfuu0rdyeka2rb8jzbs.jpg"
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=fXsBYC6VlME"
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=Fe5n6ijyMTY"
+      }
+    ]
   }
 ]
