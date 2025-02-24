@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "i-am-giovanny",
+    "title": "I am Giovanny",
+    "content": [
+      {
+        "type": "text",
+        "value": "Este fue mi primer acercamiento real a Grease Pencil, venía estudiando de reojo pero no fue hasta que comenzó la crisis sanitaria que tomé en serio realizar una animación de inicio a fin con Grease Pencil, fue un encargo de mi gran Amigo Giovanny que tuvo la paciencia de esperar las 2 semanas que tardé pero finalmente pude entregarlo."
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=jS3R0wmnkWM"
+      },
+      {
+        "type": "text",
+        "value": "Y por supuesto el diseño del logotipo"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740410141/ikarulusv2/anp0jlvkfmcojsu0atki.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Aquí un recuento sobre la elaboración de esta pieza animada."
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=tNgzhFXzvIs"
+      }
+    ]
+  }
+]
