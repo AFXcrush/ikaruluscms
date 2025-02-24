@@ -49,5 +49,19 @@
         }
       }
     ]
+  },
+  {
+    "id": "prueba",
+    "title": "prueba",
+    "content": [
+      {
+        "type": "text",
+        "value": "prueba"
+      },
+      {
+        "type": "highlight",
+        "value": "HIGHTLIGHT"
+      }
+    ]
   }
 ]
