@@ -49,5 +49,16 @@
         "value": "Créditos:\n\nProducido por: Origami Studio\n\nNarración: Patricia Pereyra\n\nGuion adaptación: Rodolfo Esquivel\n\nPreproducción: Ikaro\n\nAnimación: Jimy Carhuas /Rodolfo Esquivel /Eduardo Muñoz\n\nPostproducción: Ikaro /Helzerel\n\nDiseño de sonido y mezcla de audio: Oscar Akamine\n\nGrabación de Sonido: Supay Estudio\n\nMúsica: Celso Garrido Lecca"
       }
     ]
+  },
+  {
+    "id": "prueba",
+    "title": "Prueba",
+    "imageTN": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740436023/ikarulusv2/ifjjy83b0c9hfaip83qb.jpg",
+    "content": [
+      {
+        "type": "text",
+        "value": "Prueba"
+      }
+    ]
   }
 ]
