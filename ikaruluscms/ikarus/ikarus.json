@@ -28,5 +28,26 @@
         "value": "https://www.youtube.com/watch?v=tNgzhFXzvIs"
       }
     ]
+  },
+  {
+    "id": "elmo-boom",
+    "title": "Elmo Boom",
+    "content": [
+      {
+        "type": "text",
+        "value": "Este debe ser el primer concurso que gané, fue para el Foro de animación de Victor Escardó... uff hace 14 años me parece, le tengo cierta estima al video aunque quedó en el baúl del olvido, ahora que lo veo me doy con la sorpresa que pasa los 300 mil likes en YT!!!"
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=Pva8gV3-CAk"
+      },
+      {
+        "type": "url",
+        "value": {
+          "url": "https://www.cinepremiere.com.mx/wp-content/uploads/2020/06/Elmo-en-llamas--1024x559.jpg",
+          "text": "Elmo sabe dónde vives"
+        }
+      }
+    ]
   }
 ]
