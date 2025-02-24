@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "baby-yoda",
+    "title": "Baby Yoda",
+    "imageTN": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740439688/ikarulusv2/qzt0bb001tt4pirvboh6.jpg",
+    "content": [
+      {
+        "type": "text",
+        "value": "Creamos este modelo basado en el personaje de de Star Wars, como un adorno navideño."
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740439712/ikarulusv2/ogllzboy6gynem8gfqv8.jpg"
+      }
+    ]
+  }
+]
