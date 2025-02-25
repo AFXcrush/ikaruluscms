@@ -13,5 +13,28 @@
         "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740439712/ikarulusv2/ogllzboy6gynem8gfqv8.jpg"
       }
     ]
+  },
+  {
+    "id": "ol-caiguas",
+    "title": "Ol Caiguas",
+    "imageTN": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740442171/ikarulusv2/pldqoac77jirrcscx4tv.jpg",
+    "content": [
+      {
+        "type": "text",
+        "value": "Diseñado por Eric Montalvo, basado en un personaje de la cultura Andina."
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740442250/ikarulusv2/ypmzyq1srruoobna4big.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740442316/ikarulusv2/xbtyo5bd2zmqwyowcplh.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1740443015/ikarulusv2/zaojgwyrlgcwzvh0vp7a.jpg"
+      }
+    ]
   }
 ]
