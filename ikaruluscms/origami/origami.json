@@ -46,7 +46,43 @@
       },
       {
         "type": "text",
-        "value": "Créditos:\n\nProducido por: Origami Studio\n\nNarración: Patricia Pereyra\n\nGuion adaptación: Rodolfo Esquivel\n\nPreproducción: Ikaro\n\nAnimación: Jimy Carhuas /Rodolfo Esquivel /Eduardo Muñoz\n\nPostproducción: Ikaro /Helzerel\n\nDiseño de sonido y mezcla de audio: Oscar Akamine\n\nGrabación de Sonido: Supay Estudio\n\nMúsica: Celso Garrido Lecca"
+        "value": "Créditos:"
+      },
+      {
+        "type": "text",
+        "value": "Producido por: Origami Studio"
+      },
+      {
+        "type": "text",
+        "value": "Narración: Patricia Pereyra"
+      },
+      {
+        "type": "text",
+        "value": "Guion adaptación: Rodolfo Esquivel"
+      },
+      {
+        "type": "text",
+        "value": "Preproducción: Ikaro"
+      },
+      {
+        "type": "text",
+        "value": "Animación: Jimy Carhuas /Rodolfo Esquivel /Eduardo Muñoz"
+      },
+      {
+        "type": "text",
+        "value": "Postproducción: Ikaro /Helzerel"
+      },
+      {
+        "type": "text",
+        "value": "Diseño de sonido y mezcla de audio: Oscar Akamine"
+      },
+      {
+        "type": "text",
+        "value": "Grabación de Sonido: Supay Estudio"
+      },
+      {
+        "type": "text",
+        "value": "Música: Celso Garrido Lecca"
       }
     ]
   },
