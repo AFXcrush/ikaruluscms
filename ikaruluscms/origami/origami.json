@@ -120,5 +120,36 @@
         "value": "https://www.youtube.com/watch?v=Fe5n6ijyMTY"
       }
     ]
+  },
+  {
+    "id": "viaje---danitse",
+    "title": "Viaje - Danitse",
+    "imageTN": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1741114678/ikarulusv2/brsfanbu43fl6feiqpc1.jpg",
+    "content": [
+      {
+        "type": "text",
+        "value": "Video clip animado realizado para el single \"Viaje\" de Danitse"
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=J0uulND3uqk"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1741114721/ikarulusv2/kdb19fgbspnorf7oja3b.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1741114733/ikarulusv2/ii5xrnkjl8quthaisiff.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/ikarusikarulus/image/upload/v1741114742/ikarulusv2/xlanqoarhbst56rks16u.jpg"
+      },
+      {
+        "type": "highlight",
+        "value": "Si quieres un videoclip, escríbeme"
+      }
+    ]
   }
 ]
